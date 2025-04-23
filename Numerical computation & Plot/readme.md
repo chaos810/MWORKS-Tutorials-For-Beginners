@@ -1,0 +1,7 @@
+MWORKS建模用到的主要有两个软件，Syslab和Sysplorer，就我目前的认识而言，前者类似MATLAB，后者类似Simulink。Syslab使用Julia语言，兼容python、M（MWORKS建模用到的主要有两个软件，Syslab和Sysplorer，就我目前的认识而言，前者类似MATLAB，后者类似Simulink。Syslab使用Julia语言，兼容python、M）；Sysplorer则基于modelica。
+
+本节内容主要包括使用Syslab进行数值计算与绘图。
+
+本来打算做一些讲解的，但我精力十分有限，因此只发一些课程作业的案例。
+
+这些题目应该是我的课程老师或该课程组其他老师（又或者是哪位苦逼研究生）命制的，在此向ta致以敬意和感谢。为了尽可能减少答案外泄给以后本课程的教学带来的干扰，本专栏及对应代码内容禁止一切形式的转载，尤其是向墙内的转载。（代码发在GitHub而未在中文互联网发布，就是出于此考量）
